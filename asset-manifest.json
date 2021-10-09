@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/karaokechallenge/static/css/main.32a13723.chunk.css",
+    "main.js": "/karaokechallenge/static/js/main.4f4383da.chunk.js",
+    "main.js.map": "/karaokechallenge/static/js/main.4f4383da.chunk.js.map",
+    "runtime-main.js": "/karaokechallenge/static/js/runtime-main.4f9b72a9.js",
+    "runtime-main.js.map": "/karaokechallenge/static/js/runtime-main.4f9b72a9.js.map",
+    "static/js/2.a98960dc.chunk.js": "/karaokechallenge/static/js/2.a98960dc.chunk.js",
+    "static/js/2.a98960dc.chunk.js.map": "/karaokechallenge/static/js/2.a98960dc.chunk.js.map",
+    "static/js/3.3290c4c7.chunk.js": "/karaokechallenge/static/js/3.3290c4c7.chunk.js",
+    "static/js/3.3290c4c7.chunk.js.map": "/karaokechallenge/static/js/3.3290c4c7.chunk.js.map",
+    "index.html": "/karaokechallenge/index.html",
+    "static/css/main.32a13723.chunk.css.map": "/karaokechallenge/static/css/main.32a13723.chunk.css.map",
+    "static/js/2.a98960dc.chunk.js.LICENSE.txt": "/karaokechallenge/static/js/2.a98960dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f9b72a9.js",
+    "static/js/2.a98960dc.chunk.js",
+    "static/css/main.32a13723.chunk.css",
+    "static/js/main.4f4383da.chunk.js"
+  ]
+}
