@@ -1,0 +1,66 @@
+:root {
+  --bg-primary: #282c34;
+  --bg-secondary: #646e82;
+  --bg-tertiary: #4e5565;
+  --bg-react: #048cae;
+}
+
+.navbar {
+  width: 300px;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: var(--bg-secondary);
+}
+
+.nav-menu.active {
+  width: 50%;
+}
+
+.nav-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.nav-item {
+  height: 8vh;
+  width: 100%;
+  display: table;
+}
+
+.nav-item:hover {
+  background-color: var(--bg-tertiary);
+}
+
+.nav-item:last-child {
+  margin-top: auto;
+  background-color: var(--bg-react);
+}
+
+.nav-item a {
+  font-size: 28px;
+  color: white;
+  vertical-align: middle;
+  display: table-cell;
+  text-decoration: none;
+}
+
+.nav-item:last-child a {
+  color: black;
+  font-weight: bold;
+}
+
+#microphone {
+  margin-left: 10px;
+}
+
+#react-logo {
+  margin: 10% 16%;
+  margin-top: 20%;
+}
